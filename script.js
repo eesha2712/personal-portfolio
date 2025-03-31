@@ -10,8 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 window.scrollTo({
                     top: targetSection.offsetTop - 50,
                     behavior: "smooth"
-                    <script src="script.js"></script>
-
                 });
             }
         });
